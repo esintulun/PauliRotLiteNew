@@ -1,0 +1,16 @@
+unaufmerksam/ abgelenkt,1,1--
+nicht gemeldet,1,1--
+fehlendes/mangelhaftes Material,1,1--
+Arbeit verweigert,1,1--
+Lehrkraft geduzt,1,1--
+störender Streit,2,1--
+verspätet,1,1--
+Kaugummi/ Essen/ Mütze/ Jacke/ Kaputze/ Handy/ Kopfhörer,1,1--
+MitschülerIn beleidigt/verspottet/ausgelacht,2,2--
+kneifen/spucken/Haare ziehen/etc,2,2--
+Respektlosigkeit,2,2--
+Schulgelände verlassen,2,3--
+Eigentum beschädigt/zerstört/ Diebstahl,2,3--
+Betrug,1,4--
+Bedrohung/Nötigung,3,5--
+Gewalt,2,10--

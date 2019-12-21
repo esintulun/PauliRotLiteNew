@@ -153,6 +153,7 @@ public class WaehleSchuelerDynamicFragment extends Fragment implements RecyclerV
 
                             adapter.getDataSet().remove(0);
                             for (Schueler s : adapter.getDataSet()) {
+                                String test;
 
 
                                 if (s.getVorname().trim().length() != 0) {
